@@ -98,3 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thanks to the open-source community and Scikit-learn for providing essential tools for this project.
 
 ---
+
+## Link to Kaggle
+
+https://www.kaggle.com/code/ashishchaudhary9523/personality-prediction/notebook?scriptVersionId=248895890
