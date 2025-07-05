@@ -99,6 +99,8 @@ Thanks to the open-source community and Scikit-learn for providing essential too
 
 ---
 
-## Link to Kaggle
+## 🔗 Link to Kaggle
 
 https://www.kaggle.com/code/ashishchaudhary9523/personality-prediction/notebook?scriptVersionId=248895890
+
+---
